@@ -1,2 +1,9 @@
-# Steam-2014
-Whether its layout in 2013 or 2014, doesn't matter which was it.
+<p align="center" width="100%">
+  <img src="https://github.com/bjuonday/2014-Steam-Layout/assets/113231787/64a9a2ad-c595-462c-836c-f8769671636e" width="60%">
+</p>
+<hr>
+
+# Future updates
+'Don't know any JavaScript here, *almost* completely. Without my knowledge, I would use ChatGPT.'<br>
+### For script:
+- Replace body classes (if there's 'SummerTheme', 'Steam3000Theme' and vice versa examined) with 'DefaultTheme' to keep some "aesthetics"
