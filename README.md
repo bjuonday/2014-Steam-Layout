@@ -8,3 +8,6 @@
 Don't know any JavaScript here, *almost* completely. Without my knowledge, I would use ChatGPT.<br>
 ### For script:
 - Replace body classes (if there's 'SummerTheme', 'Steam3000Theme' and vice versa examined) with 'DefaultTheme'
+
+### For theme:
+- Make profile content background a bit transparent if the user has its profile background
