@@ -4,10 +4,6 @@
 </p>
 <hr>
 
-# Future updates
-Don't know any JavaScript here, *almost* completely. Without my knowledge, I would use ChatGPT.<br>
-### For script:
-- Replace body classes (if there's 'SummerTheme', 'Steam3000Theme' and vice versa examined) with 'DefaultTheme'
-
+## To-Do list:
 ### For theme:
-- Make profile content background a bit transparent if the user has its profile background
+- Make profile content background a bit transparent if the user has profile background
