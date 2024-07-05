@@ -9,7 +9,7 @@
 - 2014-esque Steam :: <a href="https://userstyles.world/style/14544/2014-esque-steam">Style</a>
 
 # Installation
-- Install <a href="https://raw.githubusercontent.com/bjuonday/2014-esque-Steam-tweaks/main/2014steamlayout.css">this style</a>
+- Install <a href="https://raw.githubusercontent.com/bjuonday/2014-esque-Steam-tweaks/main/2014.user.css">this style</a>
 <hr>
 
 ## To-Do list:
