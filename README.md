@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="https://github.com/bjuonday/2014-Steam-Layout/blob/main/assets/imgs/Untitled.png" width="100%">
+  <img src="https://github.com/bjuonday/2014-Steam-Layout/blob/main/assets/imgs/banner.png" width="100%">
   Warning: This code is really messy.
 </p>
 <hr>
