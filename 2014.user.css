@@ -46,7 +46,7 @@ body.Steam3000Theme {
   --gradient-background-left: none;
   --color-showcase-header: none;
   --gradient-showcase-header-left: none;
-    --btn-background: linear-gradient(0deg,rgba(43, 52, 68, 1),rgba(51, 66, 90, 1));
+    --btn-background: linear-gradient(0deg,rgb(43, 52, 68),rgb(51, 66, 90));
     --btn-background-hover: linear-gradient(0deg,rgb(53, 62, 78),rgb(78, 88, 105));
     --btn-outline: rgb(93, 102, 118);
 }
