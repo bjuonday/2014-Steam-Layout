@@ -243,7 +243,6 @@ a.persona.in-game,
     background: -o-linear-gradient(top, #516179 5%,#2a3547 95%);
     background: -ms-linear-gradient(top, #516179 5%,#2a3547 95%);
     background: linear-gradient(to bottom, #516179 5%,#2a3547 95%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#516179', endColorstr='#2a3547',GradientType=0 );
   }
   .profile_customization_area .profile_customization {
     position: relative;
@@ -295,9 +294,9 @@ a.persona.in-game,
     border-radius: 3px;
     background-color: #545454;
   }
-  /* Profile Page :: Levels */
+  /* Profile Page :: Levels
 if levelayout == rel {
-  
+
   .profile_header_badgeinfo .persona_level .friendPlayerLevel .friendPlayerLevelNum {
 color: #ffffff;
 text-shadow: none;
@@ -305,6 +304,7 @@ font-size: 24px;
 }
 
 }
+*/
 
 }
 
