@@ -1,11 +1,11 @@
 /* ==UserStyle==
-@name            2014-esque Steam tweaks
-@version         1.0.4
-@namespace       https://github.com/bjuonday/2014-esque-Steam-tweaks
-@description     2014-esque Steam is a website theme that currently tries to style the current steam website design into ones reminiscent of STEAM's V5(2014) layout, while with this tweaks option applies to Profile Page, Inventory Page and more.
-@author          bjuonday
-@license         CC0-10
-@preprocessor    stylus
+@name           2014-esque Steam tweaks
+@version        1.0.4
+@namespace      https://github.com/bjuonday/2014-esque-Steam-tweaks
+@description    2014-esque Steam is a website theme that currently tries to style the current steam website design into ones reminiscent of STEAM's V5(2014) layout, while with this tweaks option applies to Profile Page, Inventory Page and more.
+@author         bjuonday
+@license        GNU GPLv3
+@preprocessor   stylus
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://steamcommunity.com/id"), url-prefix("https://steamcommunity.com/profiles/") {
