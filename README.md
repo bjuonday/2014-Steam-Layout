@@ -1,5 +1,6 @@
 <p align="center" width="100%">
-  <img src="https://github.com/bjuonday/2014-Steam-Layout/assets/113231787/64a9a2ad-c595-462c-836c-f8769671636e" width="100%">
+  <img src="https://github.com/bjuonday/2014-Steam-Layout/blob/main/assets/imgs/Untitled.png" width="100%">
+  <b>2014-esque Steam tweaks</b>
 </p>
 <hr>
 
