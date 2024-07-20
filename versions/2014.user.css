@@ -276,7 +276,6 @@
         background: -o-linear-gradient(top, #516179 5%,#2a3547 95%);
         background: -ms-linear-gradient(top, #516179 5%,#2a3547 95%);
         background: linear-gradient(to bottom, #516179 5%,#2a3547 95%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#516179', endColorstr='#2a3547',GradientType=0 );
       }
       .profile_customization_area .profile_customization {
         position: relative;
